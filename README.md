@@ -24,7 +24,7 @@ This project explores business sales and profit performance using Microsoft Exce
 - Interactive filtering
 
 ## Project File
-- `Business Analysis Dashboard.xlsx` — Excel workbook containing the dashboard and analysis.
+- [Business Analysis Dashboard.xlsx](Business%20Analysis%20Dashboard.xlsx) — Excel workbook containing the dashboard and analysis.
 
 ## Key Learnings
 - Organising and exploring business data.
